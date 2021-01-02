@@ -1,5 +1,6 @@
 # uta-vending-system
 
+**Prototypes:**
 
 <img src="https://github.com/vikram8346/uta-vending-system/blob/main/Prototypes/Login(Step%200).png" width=300 align=center>
 
